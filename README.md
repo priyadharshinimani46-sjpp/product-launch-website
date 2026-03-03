@@ -13,4 +13,4 @@ This project is a simple landing page for announcing and promoting a new product
    git clone https://github.com/your-username/product-launch-website.git
 
 ##Project Screenshot
-![Product Launch Screenshot]
+![Product Launch Screenshot] (https://github.com/priyadharshinimani46-sjpp/product-launch-website/blob/main/screenshot.png)
